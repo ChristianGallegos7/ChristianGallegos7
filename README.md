@@ -8,7 +8,7 @@
 
 ```javascript
 const experience = {
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, PHP, Laravel, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
