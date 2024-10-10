@@ -9,14 +9,14 @@ Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnol
 
 - 📲 Mobile developer (Kotlin)
 - 💻 Backend Developer (Java, Spring Boot, Microservicios)
-- 🌱 Actualmente aprendiendo Docker y explorando Microservicios.
+- 🌱 Actualmente aprendiendo Docker, Kubernetes y explorando Microservicios.
 <br>
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/ChristianGallegos7">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristianGallegos7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristianGallegos7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianGallegos7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
