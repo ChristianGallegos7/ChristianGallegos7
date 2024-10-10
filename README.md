@@ -1,14 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Christian+Gallegos;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
 
-**Apasionado por el Desarrollo Web y la Tecnología**
+**Apasionado por el Desarrollo Backend y Mobile**
 
-Me encanta el desarrollo web y estoy aprendiendo de forma autodidacta. Llevo cursos en línea y realizo proyectos prácticos para mejorar mis habilidades. Tengo experiencia en WordPress en donde he creado diversos sitios web. Siempre estoy listo para afrontar nuevos desafíos y colaborar en proyectos emocionantes. ¡Conectemos en [LinkedIn](https://www.linkedin.com/in/saint-christian/) y conversemos!
+Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnologías como Java, Spring Boot, Kotlin y Docker. Me encanta resolver problemas técnicos complejos y crear soluciones escalables. Siempre busco aprender nuevas tecnologías y mejorar mis habilidades a través de proyectos prácticos y cursos online.
+¡Conectemos en [LinkedIn](https://www.linkedin.com/in/saint-christian/) para discutir cómo puedo contribuir a tu próximo proyecto 🚀.
 
 ## Sobre mi
 
-- 📲 Mobile developer
-- 💻 Backend Developer
-
+- 📲 Mobile developer (Kotlin)
+- 💻 Backend Developer (Java, Spring Boot, Microservicios)
+- 🌱 Actualmente aprendiendo Docker y explorando Microservicios.
 <br>
 
 ---
