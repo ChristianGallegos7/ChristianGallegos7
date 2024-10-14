@@ -12,6 +12,10 @@ Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnol
 - 🌱 Actualmente aprendiendo Docker, Kubernetes y explorando Microservicios.
 <br>
 
+## Mi Blog
+<a href="https://chris-blog.vercel.app">
+  Visita mi blog!
+</a>
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
