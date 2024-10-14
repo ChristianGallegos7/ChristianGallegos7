@@ -16,6 +16,7 @@ Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnol
 <a href="https://chris-blog.vercel.app">
   Visita mi blog!
 </a>
+<br>
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
