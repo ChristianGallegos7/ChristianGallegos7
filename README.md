@@ -7,9 +7,9 @@ Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnol
 
 ## Sobre mi
 
-- 📲 Mobile developer (Kotlin)
-- 💻 Backend Developer (Java, Spring Boot, Microservicios)
-- 🌱 Actualmente aprendiendo Docker, Kubernetes y explorando Microservicios.
+- 📲 Mobile developer (React Native)
+- 💻 Backend Developer (C#, .NET, Microservicios)
+- 🌱 Actualmente aprendiendo Docker, Kubernetes.
 <br>
 
 ## Mi Blog
