@@ -1,16 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=440&height=35&lines=%F0%9F%91%8B+Hola%2C+soy+Christian+Gallegos;%F0%9F%99%8C+Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)  
 
-**Apasionado por el Desarrollo Backend y Mobile**
 
-Soy un desarrollador especializado en backend y mobile, con un enfoque en tecnologías como Java, Spring Boot, Kotlin y Docker. Me encanta resolver problemas técnicos complejos y crear soluciones escalables. Siempre busco aprender nuevas tecnologías y mejorar mis habilidades a través de proyectos prácticos y cursos online.
-¡Conectemos en [LinkedIn](https://www.linkedin.com/in/saint-christian/) para discutir cómo puedo contribuir a tu próximo proyecto 🚀.
 
-## Sobre mi
+🛠 Acerca de mí
 
-- 📲 Mobile developer (React Native)
-- 💻 Backend Developer (C#, .NET, Microservicios)
-- 🌱 Actualmente aprendiendo Docker, Kubernetes.
-<br>
+Soy un desarrollador especializado en Backend y DevOps, con experiencia en tecnologías como C#, .NET 9, JavaScript y herramientas de contenedorización como Docker y Kubernetes. Mi enfoque se centra en construir soluciones escalables y eficientes, aplicando buenas prácticas y arquitecturas robustas.
+
+Siempre estoy en constante aprendizaje y mejorando mis habilidades a través de proyectos prácticos y formación continua.
+
+📩 ¿Hablamos? Conéctate conmigo en LinkedIn para discutir cómo puedo aportar a tu próximo proyecto 🚀.
+
+🚀 Tecnologías y herramientas
+
+💻 Backend
+
+C#, .NET 9
+
+JavaScript
+
+☁️ DevOps y Cloud
+
+Docker, Kubernetes
+
+CI/CD (GitHub Actions, Jenkins)
+
+AWS, Azure, GCP
 
 ## Mi Blog
 <a href="https://chris-blog.vercel.app">
