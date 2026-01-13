@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=520&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Christian+Gallegos;%F0%9F%9A%80+Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=4d597c&vCenter=true&random=false&width=520&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Christian;%F0%9F%9A%80+Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 ---
 
@@ -18,7 +18,7 @@ Feel free to reach out on **LinkedIn** to discuss how I can contribute to your n
 
 ### 💻 Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ☁️ DevOps & Cloud
